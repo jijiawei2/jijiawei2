@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 123
+- 🔭 I’m currently working on ... 123
 - 🌱 I’m currently learning Web Develope
 - 👯 I’m looking to collaborate on myself
 - 🤔 I’m looking for help with 123
